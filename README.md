@@ -19,7 +19,7 @@ Sou uma pessoa apaixonada por tecnologia e tudo o que envolve o mundo digital. A
 
 - **Cursando Técnico em Informática** *(2024 - 2025)*  
   Escola Técnica de Brasília
-- **Cursando Analise e Desenvolvimento de sistemas** *(2025-2027)*
+- **Cursando Análise e Desenvolvimento de sistemas** *(2025-2027)*
   CEUB
 ---
 
