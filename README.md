@@ -1,7 +1,6 @@
 # Gustavo Santana de Araújo
 
-📍 Samambaia Norte - Brasília/DF  
-✉️ gustavo.bsb403@gmail.com  
+✉️ Email: gustavo.bsb403@gmail.com  
 📞 linkedin: https://www.linkedin.com/in/gustavo-santana-76658037a/
 
 ---
